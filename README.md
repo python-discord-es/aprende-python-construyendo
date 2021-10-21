@@ -13,3 +13,9 @@ Documentación de los proyectos realizados
 * Repositorio: https://github.com/rodrigotesone1997/Analisis_Datos_Transfermarkt
 * URL:
 * Descripción: En este proyecto se propone hacer Scraping, Limpieza y Analisis de los datos que estan en esta [pagina](https://www.transfermarkt.com/).
+
+## Análisis de sentimiento en redes sociales
+* Integrantes: [Oscar Santos](https://github.com/OscarSantos98) (Mentor), Nicolás Juarez, Marvin Joel, Victor M.
+* Repositorio: https://github.com/OscarSantos98/AprendePythonConstruyendo-DS
+* URL:  
+* Descripción: Evaluar opiniones mediante análisis de sentimiento en noticias y/o redes sociales, utilizando web scraping y API's para la obtención de datos.
