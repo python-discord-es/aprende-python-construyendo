@@ -19,3 +19,9 @@ Documentación de los proyectos realizados
 * Repositorio: https://github.com/OscarSantos98/AprendePythonConstruyendo-DS
 * URL:  
 * Descripción: Evaluar opiniones mediante análisis de sentimiento en noticias y/o redes sociales, utilizando web scraping y API's para la obtención de datos.
+
+## Clasificación de objetos en imágenes
+* Integrantes: Lorena Montoya (Mentor), Leonardo León, Juan Santa
+* Repositorio: https://github.com/marilomf/dl-scene-classification
+* URL:
+* Descripción: Construir modelos para clasificar imágenes de paisajes utilizando técnicas de aprendizaje profundo como data augmentation, transfer learning y fine tuning.
