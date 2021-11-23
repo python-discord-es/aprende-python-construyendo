@@ -25,3 +25,9 @@ Documentación de los proyectos realizados
 * Repositorio: https://github.com/marilomf/dl-scene-classification
 * URL:
 * Descripción: Construir modelos para clasificar imágenes de paisajes utilizando técnicas de aprendizaje profundo como data augmentation, transfer learning y fine tuning.
+
+## Aplicación web
+* Integrantes: Aldo Caneo (Mentor), Diego
+* Repositorio: https://github.com/ancaneo/aplicacion-web
+* URL: 
+* Descripción:Construir una aplicación web. Se definirá más adelante foco con el equipo
