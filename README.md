@@ -26,8 +26,8 @@ Documentación de los proyectos realizados
 * URL:
 * Descripción: Construir modelos para clasificar imágenes de paisajes utilizando técnicas de aprendizaje profundo como data augmentation, transfer learning y fine tuning.
 
-## Aplicación web
-* Integrantes: Aldo Caneo (Mentor), Diego
-* Repositorio: https://github.com/ancaneo/aplicacion-web
+## Ecommerce Fast API
+* Integrantes: Aldo Caneo (Mentor), Federico Mazzei, Herbert, Javier Espinoza y Leonardo Guanco
+* Repositorio: https://github.com/fideo/ecommerce_fastapi
 * URL: 
-* Descripción:Construir una aplicación web. Se definirá más adelante foco con el equipo
+* Descripción: Construir e-commerce con Fast API
